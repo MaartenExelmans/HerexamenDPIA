@@ -1,0 +1,8 @@
+1) Security kan het best geimplementeerd worden bij de Data Access Layer, omdat hier er hier communicatie is binnen het hele systeem. Zo kan men data corruptie tegen gaan.
+
+2) Logging implementeerd men ook bij de database access layer.
+
+3) Bij deze soort architectuur worden de risicos minimaal en is er in prinscipe geen grooste risico
+
+4) Software architectuur is de structuur binnen een software systeem. Elke structuur bestaat uit software elements, hun relations, en properties van zowel elementen al relaties. 
+   Deze architectuur is belangrijk omdat ze bijna onmogelijk zijn om te vervangen. Het kiezen van de structure is gebaseerd op vele dingen zoals specifieke opties van mogelijkheden en design van de softwaren
